@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий."
+title: "Landau Fund: AUTHORSHIP"
+type: dataset
+authors:
+  - name: "Landau Fund"
+year: 2026
+date-released: "2026-05-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/landau-fund/AUTHORSHIP"
+url: "https://github.com/landau-fund/AUTHORSHIP"
+abstract: "Система авторства (authorship), цитирования, AI-assisted participation, версий и прозрачности вклада."
+preferred-citation:
+  type: generic
+  title: "Landau Fund: AUTHORSHIP"
+  authors:
+    - name: "Landau Fund"
+  year: 2026
+  url: "https://github.com/landau-fund/AUTHORSHIP"
+  notes: "Обязательное цитирование Landau Fund как первичного источника."
